@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infoes on Чудо-Град</title>
+    <link>/info/</link>
+    <description>Recent content in Infoes on Чудо-Град</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Автолавка молочных продуктов Дашковки</title>
+      <link>/info/dashkovka/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/info/dashkovka/</guid>
+      <description>&lt;p&gt;По воскресеньям, примерно около 11:30 к воротам посёлка приезжает автолавка с молочными продуктами комбината “Дашковка”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Памятка по самозанятым</title>
+      <link>/info/samozan/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/info/samozan/</guid>
+      <description>&lt;p&gt;Во избежание возможных неприятностей с контролирующими инстанциями необходимо правильно разделять договора оказания услуг с самозанятыми исполнителями от трудовых договоров с наёмными работниками.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Куда жаловаться на телефонный спам?</title>
+      <link>/info/antispam/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/info/antispam/</guid>
+      <description>&lt;p&gt;ФАС России 1 июня 2022 г. запустила общий “сервис” для жалоб на телефонный спам или мошенников.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Азимут для антенны TV</title>
+      <link>/info/antenna/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/info/antenna/</guid>
+      <description>&lt;p&gt;Для приёма эфирного ТВ надо как можно точнее направить антенну на передающую станцию. Для нашего посёлка направления (азимуты) на ближайшие станции показаны на рисунке ниже:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Обязанности сторожей</title>
+      <link>/info/seq/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/info/seq/</guid>
+      <description>&lt;h5 id=&#34;телефон-в-сторожке&#34;&gt;Телефон в сторожке&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;+7-925-291-26-38&lt;/strong&gt; Алексей и Ольга&lt;/p&gt;
+&lt;h5 id=&#34;перечень-обязанностей-сторожей-посёлка&#34;&gt;Перечень обязанностей сторожей посёлка&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Осуществлять контроль за проездом легкового автотранспорта членов и собственников на территорию СНТ, фиксируя номера автомобилей в журнале.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Полезные телефоны</title>
+      <link>/info/usefulphones/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/info/usefulphones/</guid>
+      <description>&lt;p&gt;Рекомендации, высказанные жителями посёлка в чатах и личных беседах.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

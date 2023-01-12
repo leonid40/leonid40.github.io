@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Проект on Чудо-Град</title>
+    <link>/tags/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</link>
+    <description>Recent content in Проект on Чудо-Град</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Продолжим</title>
+      <link>/post/2step/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2step/</guid>
+      <description>&lt;p&gt;Новый вариант сайта. Теперь мигрирует в цифровой сад с полезной информацией и по посёлку тоже.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Начнём сначала</title>
+      <link>/post/letsgo/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/letsgo/</guid>
+      <description>&lt;p&gt;Перезапускаю сайт на новой платформе, простой и бесхитростной.
+Зато быстрой и не зависящей от превратностей текущей жизни.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

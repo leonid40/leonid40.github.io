@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Чудо-Град</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on Чудо-Град</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Федеральный закон №217-ФЗ</title>
+      <link>/docs/zakon/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/zakon/</guid>
+      <description>&lt;p&gt;Практически вся деятельность СНТ и его органов регулирует
+&lt;strong&gt;Федеральный закон от 29.07.2017 г. № 217-ФЗ&lt;/strong&gt;
+&lt;em&gt;О ведении гражданами садоводства и огородничества для собственных нужд и о внесении изменений в отдельные законодательные акты Российской Федерации&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Действующий Устав СНТ Чудо-Град</title>
+      <link>/docs/ustav-2021/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/ustav-2021/</guid>
+      <description>&lt;p&gt;Устав утверждён очередным Общим собранием Товарищества в 2021 г.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Правила проживания СНТ Чудо-Град</title>
+      <link>/docs/pravila/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/pravila/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/assets/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0.pdf&#34;&gt;Внутренние правила ДНП Петрухино - скачать скан в формате .PDF &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Утверждены решением Общего собрания ДНП Петрухино в 2020 г. (Протокол №1 от &lt;strong&gt;27.12.2020&lt;/strong&gt; г.).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Реквизиты СНТ Чудо-Град</title>
+      <link>/docs/rekvizity/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/rekvizity/</guid>
+      <description>&lt;h3 id=&#34;юридический-адрес&#34;&gt;Юридический адрес&lt;/h3&gt;
+&lt;p&gt;Садоводческое некоммерческое товарищество &amp;ldquo;&lt;strong&gt;Чудо-Град&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;142200, РОССИЯ, МОСКОВСКАЯ ОБЛ.,
+СЕРПУХОВ Г.О., СЕРПУХОВ Г., ПЕТРУХИНО Д.,
+ТЕР. ДАЧНОЕ НЕКОММЕРЧЕСКОЕ ПАРТНЕРСТВО ПЕТРУХИНО, Д. 57.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Шаблоны заявлений и предложений на ОС 2022</title>
+      <link>/docs/form4sobr/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/form4sobr/</guid>
+      <description>&lt;p&gt;Здесь размещены шаблоны (образцы) предложений и заявлений, которые можно использовать, если появится желание предложить вопрос в повестку дня или свою кандидатуру в выборные органы СНТ.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

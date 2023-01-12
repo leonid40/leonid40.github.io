@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gardens on Чудо-Град</title>
+    <link>/garden/</link>
+    <description>Recent content in Gardens on Чудо-Град</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Частное солнечное затмение 25 октября 2022 г.</title>
+      <link>/garden/sol20221025/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/garden/sol20221025/</guid>
+      <description>&lt;p&gt;Во вторник, 25 октября 2022 г. можно будет увидеть частное солнечное затмение.&lt;br&gt;
+Максимальная фаза затемнения в  Москве – 71%, в &lt;strong&gt;13:38&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Лучшие советские учебники</title>
+      <link>/garden/bukvar/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/garden/bukvar/</guid>
+      <description>&lt;p&gt;Новый учебный год и не могу не напомнить про прекрасную подборку советских учебников, для школы и самообразования. Простой язык, внятные и доходчивые объяснения – на этих учебниках выучились создатели всего того, чем гордилась наша Родина и что &lt;strong&gt;до сих пор работает&lt;/strong&gt;: атомные электростанции, космические корабли и т.д.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Медиа - это...</title>
+      <link>/garden/media_is/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/garden/media_is/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лучшие лекции Лаборатории Научного видео</title>
+      <link>/garden/labscivedeo/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/garden/labscivedeo/</guid>
+      <description>&lt;p&gt;Сегодня исполнилось 7 лет &lt;a href=&#34;https://vk.com/sciencevideolab&#34;&gt;Лаборатории Научных Видео&lt;/a&gt;  - лучшему проекту популяризации науки.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Почерк, перо и самоанализ</title>
+      <link>/garden/pen/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/garden/pen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
